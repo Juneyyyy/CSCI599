@@ -3,10 +3,6 @@ import numpy as np
 from djitellopy import Tello
 import time
 
-Flying = True
-
-Human = False  # for human avoidance
-
 previous_time = time.time()
 
 current_time = 0
