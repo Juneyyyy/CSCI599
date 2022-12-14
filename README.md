@@ -15,4 +15,4 @@ pip install djitellopy
 See [djitellopy.readthedocs.io](https://djitellopy.readthedocs.io/en/latest/) for a full reference of all classes and methods available.
 
 ## Link to the presentation and Demo
-[https://docs.google.com/presentation/d/1P0m3uzEY-Vi8pXtksyWS5TmHN1pD7XP-A5JoB5ucC9U/edit?usp=sharing]
+[Presentation link](https://docs.google.com/presentation/d/1P0m3uzEY-Vi8pXtksyWS5TmHN1pD7XP-A5JoB5ucC9U/edit?usp=sharing)
